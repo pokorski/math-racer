@@ -1,0 +1,96 @@
+1 \rightarrow \mathrm{Roman}
+I
+II,III,IV,V
+
+2 \rightarrow \mathrm{Roman}
+II
+I,III,IV,V
+
+3 \rightarrow \mathrm{Roman}
+III
+I,II,IV,V
+
+4 \rightarrow \mathrm{Roman}
+IV
+I,V,VI,III
+
+5 \rightarrow \mathrm{Roman}
+V
+I,IV,VI,X
+
+6 \rightarrow \mathrm{Roman}
+VI
+IV,VII,IX,XI
+
+7 \rightarrow \mathrm{Roman}
+VII
+II,XII,IV,VI
+
+8 \rightarrow \mathrm{Roman}
+VIII
+XIII,VII,XII,IX
+
+9 \rightarrow \mathrm{Roman}
+IX
+X,XI,IV,VI
+
+10 \rightarrow \mathrm{Roman}
+X
+V,I,L,C
+
+11 \rightarrow \mathrm{Roman}
+XI
+VI,IV,IX,VIII
+
+12 \rightarrow \mathrm{Roman}
+XII
+VII,XI,VI,LII
+
+I \rightarrow ?
+1
+2,3,4,5
+
+II \rightarrow ?
+2
+1,3,4,5
+
+III \rightarrow ?
+3
+1,2,4,5
+
+IV \rightarrow ?
+4
+2,3,5,6
+
+V \rightarrow ?
+5
+1,10,6,4
+
+VI \rightarrow ?
+6
+4,11,9,2
+
+VII \rightarrow ?
+7
+3,12,10,8
+
+VIII \rightarrow ?
+8
+4,13,10,7
+
+IX \rightarrow ?
+9
+4,6,11,10
+
+X \rightarrow ?
+10
+1,5,20,9
+
+XI \rightarrow ?
+11
+9,4,6,8
+
+XII \rightarrow ?
+12
+8,7,52,20
+

@@ -1,0 +1,444 @@
+\frac{1}{2} + \frac{1}{2} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{1}{2} + \frac{3}{2} = ?
+2
+4,\frac{3}{2},1,0,3
+
+\frac{1}{2} + \frac{1}{3} = ?
+\frac{5}{6}
+\frac{5}{3},\frac{5}{12},\frac{5}{7},1,\frac{2}{3},\frac{6}{7}
+
+\frac{1}{2} + \frac{2}{3} = ?
+\frac{7}{6}
+\frac{8}{7},\frac{7}{12},\frac{7}{3},1,\frac{7}{5},\frac{4}{3}
+
+\frac{1}{2} + \frac{1}{4} = ?
+\frac{3}{4}
+\frac{3}{8},\frac{3}{5},\frac{4}{5},\frac{1}{2},\frac{3}{2},1
+
+\frac{1}{2} + \frac{3}{4} = ?
+\frac{5}{4}
+\frac{5}{2},\frac{5}{8},\frac{5}{3},\frac{3}{2},1,\frac{6}{5}
+
+\frac{1}{2} + \frac{1}{5} = ?
+\frac{7}{10}
+\frac{7}{9},\frac{3}{5},\frac{4}{5},\frac{7}{20},\frac{7}{5},\frac{7}{11},\frac{8}{11}
+
+\frac{1}{2} + \frac{2}{5} = ?
+\frac{9}{10}
+\frac{10}{11},\frac{4}{5},\frac{9}{5},\frac{9}{11},1,\frac{9}{20}
+
+\frac{1}{2} + \frac{1}{6} = ?
+\frac{2}{3}
+\frac{3}{4},\frac{1}{2},1,\frac{1}{3},\frac{4}{3}
+
+\frac{1}{2} + \frac{5}{6} = ?
+\frac{4}{3}
+2,\frac{8}{3},\frac{5}{4},\frac{5}{3},1,\frac{2}{3}
+
+\frac{1}{2} + \frac{1}{8} = ?
+\frac{5}{8}
+\frac{5}{4},\frac{5}{9},\frac{3}{4},\frac{1}{2},\frac{5}{16},\frac{5}{7},\frac{2}{3}
+
+\frac{1}{2} + \frac{3}{8} = ?
+\frac{7}{8}
+\frac{7}{4},\frac{8}{9},\frac{7}{16},\frac{3}{4},1,\frac{7}{9}
+
+\frac{1}{2} + \frac{5}{8} = ?
+\frac{9}{8}
+\frac{9}{4},\frac{9}{7},\frac{10}{9},\frac{5}{4},\frac{9}{16},1
+
+\frac{3}{2} + \frac{1}{2} = ?
+2
+4,\frac{3}{2},1,0,3
+
+\frac{3}{2} + \frac{3}{2} = ?
+3
+2,6,4,\frac{3}{2},0
+
+\frac{3}{2} + \frac{1}{4} = ?
+\frac{7}{4}
+\frac{8}{5},2,\frac{7}{3},\frac{3}{2},\frac{7}{8},\frac{7}{5},\frac{7}{2}
+
+\frac{3}{2} + \frac{3}{4} = ?
+\frac{9}{4}
+2,\frac{9}{8},\frac{5}{2},\frac{9}{5},\frac{9}{2},3
+
+\frac{3}{2} + \frac{1}{6} = ?
+\frac{5}{3}
+2,\frac{10}{3},\frac{5}{2},\frac{5}{4},\frac{5}{6},\frac{3}{2},\frac{4}{3}
+
+\frac{3}{2} + \frac{5}{6} = ?
+\frac{7}{3}
+2,\frac{14}{3},\frac{8}{3},\frac{7}{4},\frac{7}{6},\frac{7}{2}
+
+\frac{1}{3} + \frac{1}{2} = ?
+\frac{5}{6}
+\frac{5}{3},\frac{5}{12},\frac{5}{7},1,\frac{2}{3},\frac{6}{7}
+
+\frac{1}{3} + \frac{1}{3} = ?
+\frac{2}{3}
+\frac{3}{4},\frac{1}{2},1,\frac{1}{3},\frac{4}{3}
+
+\frac{1}{3} + \frac{2}{3} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{1}{3} + \frac{1}{4} = ?
+\frac{7}{12}
+\frac{7}{24},\frac{7}{6},\frac{1}{2},\frac{7}{13},\frac{2}{3},\frac{8}{13},\frac{7}{11}
+
+\frac{1}{3} + \frac{1}{5} = ?
+\frac{8}{15}
+\frac{4}{7},\frac{3}{5},\frac{7}{15},\frac{9}{16},\frac{1}{2},\frac{4}{15},\frac{16}{15}
+
+\frac{1}{3} + \frac{1}{6} = ?
+\frac{1}{2}
+\frac{1}{4},1,\frac{2}{3},0,\frac{1}{3}
+
+\frac{1}{3} + \frac{5}{6} = ?
+\frac{7}{6}
+\frac{8}{7},\frac{7}{12},\frac{7}{3},1,\frac{7}{5},\frac{4}{3}
+
+\frac{1}{3} + \frac{1}{9} = ?
+\frac{4}{9}
+\frac{8}{9},\frac{2}{5},\frac{5}{9},\frac{2}{9},\frac{1}{2},\frac{1}{3}
+
+\frac{2}{3} + \frac{1}{2} = ?
+\frac{7}{6}
+\frac{8}{7},\frac{7}{12},\frac{7}{3},1,\frac{7}{5},\frac{4}{3}
+
+\frac{2}{3} + \frac{1}{3} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{2}{3} + \frac{2}{3} = ?
+\frac{4}{3}
+2,\frac{8}{3},\frac{5}{4},\frac{5}{3},1,\frac{2}{3}
+
+\frac{2}{3} + \frac{1}{6} = ?
+\frac{5}{6}
+\frac{5}{3},\frac{5}{12},\frac{5}{7},1,\frac{2}{3},\frac{6}{7}
+
+\frac{2}{3} + \frac{5}{6} = ?
+\frac{3}{2}
+2,\frac{3}{4},1,3,\frac{4}{3}
+
+\frac{2}{3} + \frac{1}{9} = ?
+\frac{7}{9}
+\frac{8}{9},\frac{4}{5},\frac{7}{10},\frac{14}{9},\frac{7}{18},\frac{7}{8},\frac{2}{3}
+
+\frac{1}{4} + \frac{1}{2} = ?
+\frac{3}{4}
+\frac{3}{8},\frac{3}{5},\frac{4}{5},\frac{1}{2},\frac{3}{2},1
+
+\frac{1}{4} + \frac{3}{2} = ?
+\frac{7}{4}
+\frac{8}{5},2,\frac{7}{3},\frac{3}{2},\frac{7}{8},\frac{7}{5},\frac{7}{2}
+
+\frac{1}{4} + \frac{1}{3} = ?
+\frac{7}{12}
+\frac{7}{24},\frac{7}{6},\frac{1}{2},\frac{7}{13},\frac{2}{3},\frac{8}{13},\frac{7}{11}
+
+\frac{1}{4} + \frac{1}{4} = ?
+\frac{1}{2}
+\frac{1}{4},1,\frac{2}{3},0,\frac{1}{3}
+
+\frac{1}{4} + \frac{3}{4} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{1}{4} + \frac{1}{6} = ?
+\frac{5}{12}
+\frac{6}{13},\frac{5}{13},\frac{5}{11},\frac{5}{6},\frac{1}{2},\frac{5}{24},\frac{1}{3}
+
+\frac{1}{4} + \frac{1}{8} = ?
+\frac{3}{8}
+\frac{3}{7},\frac{3}{4},\frac{1}{2},\frac{1}{4},\frac{4}{9},\frac{3}{16},\frac{1}{3}
+
+\frac{1}{4} + \frac{3}{8} = ?
+\frac{5}{8}
+\frac{5}{4},\frac{5}{9},\frac{3}{4},\frac{1}{2},\frac{5}{16},\frac{5}{7},\frac{2}{3}
+
+\frac{1}{4} + \frac{5}{8} = ?
+\frac{7}{8}
+\frac{7}{4},\frac{8}{9},\frac{7}{16},\frac{3}{4},1,\frac{7}{9}
+
+\frac{1}{4} + \frac{7}{8} = ?
+\frac{9}{8}
+\frac{9}{4},\frac{9}{7},\frac{10}{9},\frac{5}{4},\frac{9}{16},1
+
+\frac{3}{4} + \frac{1}{2} = ?
+\frac{5}{4}
+\frac{5}{2},\frac{5}{8},\frac{5}{3},\frac{3}{2},1,\frac{6}{5}
+
+\frac{3}{4} + \frac{3}{2} = ?
+\frac{9}{4}
+2,\frac{9}{8},\frac{5}{2},\frac{9}{5},\frac{9}{2},3
+
+\frac{3}{4} + \frac{1}{4} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{3}{4} + \frac{3}{4} = ?
+\frac{3}{2}
+2,\frac{3}{4},1,3,\frac{4}{3}
+
+\frac{3}{4} + \frac{1}{8} = ?
+\frac{7}{8}
+\frac{7}{4},\frac{8}{9},\frac{7}{16},\frac{3}{4},1,\frac{7}{9}
+
+\frac{3}{4} + \frac{3}{8} = ?
+\frac{9}{8}
+\frac{9}{4},\frac{9}{7},\frac{10}{9},\frac{5}{4},\frac{9}{16},1
+
+\frac{1}{5} + \frac{1}{2} = ?
+\frac{7}{10}
+\frac{7}{9},\frac{3}{5},\frac{4}{5},\frac{7}{20},\frac{7}{5},\frac{7}{11},\frac{8}{11}
+
+\frac{1}{5} + \frac{1}{3} = ?
+\frac{8}{15}
+\frac{4}{7},\frac{3}{5},\frac{7}{15},\frac{9}{16},\frac{1}{2},\frac{4}{15},\frac{16}{15}
+
+\frac{1}{5} + \frac{1}{5} = ?
+\frac{2}{5}
+\frac{3}{5},\frac{4}{5},\frac{1}{2},\frac{1}{3},\frac{1}{5}
+
+\frac{1}{5} + \frac{2}{5} = ?
+\frac{3}{5}
+\frac{3}{10},\frac{4}{5},\frac{2}{5},\frac{3}{4},\frac{1}{2},\frac{2}{3},\frac{6}{5}
+
+\frac{1}{5} + \frac{3}{5} = ?
+\frac{4}{5}
+\frac{8}{5},\frac{3}{5},\frac{2}{5},\frac{5}{6},1,\frac{2}{3}
+
+\frac{1}{5} + \frac{4}{5} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{2}{5} + \frac{1}{2} = ?
+\frac{9}{10}
+\frac{10}{11},\frac{4}{5},\frac{9}{5},\frac{9}{11},1,\frac{9}{20}
+
+\frac{2}{5} + \frac{1}{5} = ?
+\frac{3}{5}
+\frac{3}{10},\frac{4}{5},\frac{2}{5},\frac{3}{4},\frac{1}{2},\frac{2}{3},\frac{6}{5}
+
+\frac{2}{5} + \frac{2}{5} = ?
+\frac{4}{5}
+\frac{8}{5},\frac{3}{5},\frac{2}{5},\frac{5}{6},1,\frac{2}{3}
+
+\frac{2}{5} + \frac{3}{5} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{2}{5} + \frac{4}{5} = ?
+\frac{6}{5}
+\frac{12}{5},\frac{3}{5},\frac{7}{6},\frac{3}{2},1,\frac{7}{5}
+
+\frac{3}{5} + \frac{1}{5} = ?
+\frac{4}{5}
+\frac{8}{5},\frac{3}{5},\frac{2}{5},\frac{5}{6},1,\frac{2}{3}
+
+\frac{3}{5} + \frac{2}{5} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{3}{5} + \frac{3}{5} = ?
+\frac{6}{5}
+\frac{12}{5},\frac{3}{5},\frac{7}{6},\frac{3}{2},1,\frac{7}{5}
+
+\frac{3}{5} + \frac{4}{5} = ?
+\frac{7}{5}
+\frac{8}{5},\frac{14}{5},\frac{7}{4},\frac{7}{6},\frac{7}{10},\frac{6}{5},\frac{4}{3}
+
+\frac{4}{5} + \frac{1}{5} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{4}{5} + \frac{2}{5} = ?
+\frac{6}{5}
+\frac{12}{5},\frac{3}{5},\frac{7}{6},\frac{3}{2},1,\frac{7}{5}
+
+\frac{4}{5} + \frac{3}{5} = ?
+\frac{7}{5}
+\frac{8}{5},\frac{14}{5},\frac{7}{4},\frac{7}{6},\frac{7}{10},\frac{6}{5},\frac{4}{3}
+
+\frac{4}{5} + \frac{4}{5} = ?
+\frac{8}{5}
+2,\frac{4}{5},\frac{9}{5},\frac{3}{2},\frac{16}{5},\frac{7}{5},\frac{4}{3}
+
+\frac{1}{6} + \frac{1}{2} = ?
+\frac{2}{3}
+\frac{3}{4},\frac{1}{2},1,\frac{1}{3},\frac{4}{3}
+
+\frac{1}{6} + \frac{3}{2} = ?
+\frac{5}{3}
+2,\frac{10}{3},\frac{5}{2},\frac{5}{4},\frac{5}{6},\frac{3}{2},\frac{4}{3}
+
+\frac{1}{6} + \frac{1}{3} = ?
+\frac{1}{2}
+\frac{1}{4},1,\frac{2}{3},0,\frac{1}{3}
+
+\frac{1}{6} + \frac{2}{3} = ?
+\frac{5}{6}
+\frac{5}{3},\frac{5}{12},\frac{5}{7},1,\frac{2}{3},\frac{6}{7}
+
+\frac{1}{6} + \frac{1}{4} = ?
+\frac{5}{12}
+\frac{6}{13},\frac{5}{13},\frac{5}{11},\frac{5}{6},\frac{1}{2},\frac{5}{24},\frac{1}{3}
+
+\frac{1}{6} + \frac{1}{6} = ?
+\frac{1}{3}
+\frac{1}{6},\frac{1}{2},\frac{1}{4},\frac{2}{3},0
+
+\frac{1}{6} + \frac{5}{6} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{1}{6} + \frac{1}{9} = ?
+\frac{5}{18}
+\frac{5}{36},\frac{5}{17},\frac{5}{9},\frac{2}{9},\frac{5}{19},\frac{1}{3},\frac{6}{19}
+
+\frac{5}{6} + \frac{1}{2} = ?
+\frac{4}{3}
+2,\frac{8}{3},\frac{5}{4},\frac{5}{3},1,\frac{2}{3}
+
+\frac{5}{6} + \frac{3}{2} = ?
+\frac{7}{3}
+2,\frac{14}{3},\frac{8}{3},\frac{7}{4},\frac{7}{6},\frac{7}{2}
+
+\frac{5}{6} + \frac{1}{3} = ?
+\frac{7}{6}
+\frac{8}{7},\frac{7}{12},\frac{7}{3},1,\frac{7}{5},\frac{4}{3}
+
+\frac{5}{6} + \frac{2}{3} = ?
+\frac{3}{2}
+2,\frac{3}{4},1,3,\frac{4}{3}
+
+\frac{5}{6} + \frac{1}{6} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{5}{6} + \frac{5}{6} = ?
+\frac{5}{3}
+2,\frac{10}{3},\frac{5}{2},\frac{5}{4},\frac{5}{6},\frac{3}{2},\frac{4}{3}
+
+\frac{1}{8} + \frac{1}{2} = ?
+\frac{5}{8}
+\frac{5}{4},\frac{5}{9},\frac{3}{4},\frac{1}{2},\frac{5}{16},\frac{5}{7},\frac{2}{3}
+
+\frac{1}{8} + \frac{1}{4} = ?
+\frac{3}{8}
+\frac{3}{7},\frac{3}{4},\frac{1}{2},\frac{1}{4},\frac{4}{9},\frac{3}{16},\frac{1}{3}
+
+\frac{1}{8} + \frac{3}{4} = ?
+\frac{7}{8}
+\frac{7}{4},\frac{8}{9},\frac{7}{16},\frac{3}{4},1,\frac{7}{9}
+
+\frac{1}{8} + \frac{1}{8} = ?
+\frac{1}{4}
+\frac{1}{8},\frac{2}{5},\frac{1}{2},0,\frac{1}{3},\frac{1}{5}
+
+\frac{1}{8} + \frac{3}{8} = ?
+\frac{1}{2}
+\frac{1}{4},1,\frac{2}{3},0,\frac{1}{3}
+
+\frac{1}{8} + \frac{5}{8} = ?
+\frac{3}{4}
+\frac{3}{8},\frac{3}{5},\frac{4}{5},\frac{1}{2},\frac{3}{2},1
+
+\frac{1}{8} + \frac{7}{8} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{3}{8} + \frac{1}{2} = ?
+\frac{7}{8}
+\frac{7}{4},\frac{8}{9},\frac{7}{16},\frac{3}{4},1,\frac{7}{9}
+
+\frac{3}{8} + \frac{1}{4} = ?
+\frac{5}{8}
+\frac{5}{4},\frac{5}{9},\frac{3}{4},\frac{1}{2},\frac{5}{16},\frac{5}{7},\frac{2}{3}
+
+\frac{3}{8} + \frac{3}{4} = ?
+\frac{9}{8}
+\frac{9}{4},\frac{9}{7},\frac{10}{9},\frac{5}{4},\frac{9}{16},1
+
+\frac{3}{8} + \frac{1}{8} = ?
+\frac{1}{2}
+\frac{1}{4},1,\frac{2}{3},0,\frac{1}{3}
+
+\frac{3}{8} + \frac{3}{8} = ?
+\frac{3}{4}
+\frac{3}{8},\frac{3}{5},\frac{4}{5},\frac{1}{2},\frac{3}{2},1
+
+\frac{3}{8} + \frac{5}{8} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{3}{8} + \frac{7}{8} = ?
+\frac{5}{4}
+\frac{5}{2},\frac{5}{8},\frac{5}{3},\frac{3}{2},1,\frac{6}{5}
+
+\frac{5}{8} + \frac{1}{2} = ?
+\frac{9}{8}
+\frac{9}{4},\frac{9}{7},\frac{10}{9},\frac{5}{4},\frac{9}{16},1
+
+\frac{5}{8} + \frac{1}{4} = ?
+\frac{7}{8}
+\frac{7}{4},\frac{8}{9},\frac{7}{16},\frac{3}{4},1,\frac{7}{9}
+
+\frac{5}{8} + \frac{1}{8} = ?
+\frac{3}{4}
+\frac{3}{8},\frac{3}{5},\frac{4}{5},\frac{1}{2},\frac{3}{2},1
+
+\frac{5}{8} + \frac{3}{8} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{5}{8} + \frac{5}{8} = ?
+\frac{5}{4}
+\frac{5}{2},\frac{5}{8},\frac{5}{3},\frac{3}{2},1,\frac{6}{5}
+
+\frac{5}{8} + \frac{7}{8} = ?
+\frac{3}{2}
+2,\frac{3}{4},1,3,\frac{4}{3}
+
+\frac{7}{8} + \frac{1}{4} = ?
+\frac{9}{8}
+\frac{9}{4},\frac{9}{7},\frac{10}{9},\frac{5}{4},\frac{9}{16},1
+
+\frac{7}{8} + \frac{1}{8} = ?
+1
+2,10,\frac{1}{2},0
+
+\frac{7}{8} + \frac{3}{8} = ?
+\frac{5}{4}
+\frac{5}{2},\frac{5}{8},\frac{5}{3},\frac{3}{2},1,\frac{6}{5}
+
+\frac{7}{8} + \frac{5}{8} = ?
+\frac{3}{2}
+2,\frac{3}{4},1,3,\frac{4}{3}
+
+\frac{7}{8} + \frac{7}{8} = ?
+\frac{7}{4}
+\frac{8}{5},2,\frac{7}{3},\frac{3}{2},\frac{7}{8},\frac{7}{5},\frac{7}{2}
+
+\frac{1}{9} + \frac{1}{3} = ?
+\frac{4}{9}
+\frac{8}{9},\frac{2}{5},\frac{5}{9},\frac{2}{9},\frac{1}{2},\frac{1}{3}
+
+\frac{1}{9} + \frac{2}{3} = ?
+\frac{7}{9}
+\frac{8}{9},\frac{4}{5},\frac{7}{10},\frac{14}{9},\frac{7}{18},\frac{7}{8},\frac{2}{3}
+
+\frac{1}{9} + \frac{1}{6} = ?
+\frac{5}{18}
+\frac{5}{36},\frac{5}{17},\frac{5}{9},\frac{2}{9},\frac{5}{19},\frac{1}{3},\frac{6}{19}
+
+\frac{1}{9} + \frac{1}{9} = ?
+\frac{2}{9}
+\frac{3}{10},\frac{1}{4},\frac{1}{9},\frac{4}{9},\frac{1}{3},\frac{1}{5}
+

@@ -1,0 +1,271 @@
+\frac{1}{2} \rightarrow ?.?
+0.5
+0.0,1.0,-0.5,1.5
+
+\frac{1}{4} \rightarrow ?.?
+0.25
+0.5,0.0,-0.25,0.75
+
+\frac{3}{4} \rightarrow ?.?
+0.75
+0.5,1.0,0.25,1.25
+
+\frac{1}{3} \rightarrow ?.?
+0.33...
+0.3,0.66...,0.5,0.33
+
+\frac{2}{3} \rightarrow ?.?
+0.66...
+0.6,0.67,0.33...,0.5
+
+\frac{1}{9} \rightarrow ?.?
+0.11...
+0.1,0.2,0.11,0.12,0.5
+
+\frac{1}{5} \rightarrow ?.?
+0.2
+0.4,0.0,0.6,-0.2
+
+\frac{2}{5} \rightarrow ?.?
+0.4
+0.6,0.0,0.8,0.2
+
+\frac{3}{5} \rightarrow ?.?
+0.6
+0.8,0.4,0.2,1.0
+
+\frac{4}{5} \rightarrow ?.?
+0.8
+0.6,1.0,1.2,0.4
+
+\frac{1}{8} \rightarrow ?.?
+0.125
+0.25,0.0,-0.125,0.375
+
+\frac{3}{8} \rightarrow ?.?
+0.375
+0.5,0.25,0.125,0.625
+
+\frac{5}{8} \rightarrow ?.?
+0.625
+0.75,0.5,0.375,0.875
+
+\frac{7}{8} \rightarrow ?.?
+0.875
+0.75,1.0,0.625,1.125
+
+\frac{1}{10} \rightarrow ?.?
+0.1
+0.2,0.0,0.3,-0.1
+
+\frac{3}{10} \rightarrow ?.?
+0.3
+0.4,0.5,0.1,0.2
+
+\frac{7}{10} \rightarrow ?.?
+0.7
+0.8,0.6,0.5,0.9
+
+\frac{9}{10} \rightarrow ?.?
+0.9
+0.8,1.0,1.1,0.7
+
+\frac{1}{20} \rightarrow ?.?
+0.05
+0.1,0.0,-0.05,0.15
+
+\frac{3}{20} \rightarrow ?.?
+0.15
+0.2,0.25,0.1,0.05
+
+\frac{7}{20} \rightarrow ?.?
+0.35
+0.4,0.25,0.45,0.3
+
+\frac{9}{20} \rightarrow ?.?
+0.45
+0.5,0.4,0.35,0.55
+
+\frac{1}{25} \rightarrow ?.?
+0.04
+0.08,0.0,-0.04,0.12
+
+\frac{2}{25} \rightarrow ?.?
+0.08
+0.12,0.0,0.04,0.16
+
+\frac{3}{25} \rightarrow ?.?
+0.12
+0.16,0.08,0.2,0.04
+
+\frac{4}{25} \rightarrow ?.?
+0.16
+0.2,0.12,0.08,0.24
+
+\frac{6}{25} \rightarrow ?.?
+0.24
+0.28,0.32,0.2,0.16
+
+\frac{7}{25} \rightarrow ?.?
+0.28
+0.32,0.24,0.2,0.36
+
+\frac{8}{25} \rightarrow ?.?
+0.32
+0.36,0.28,0.24,0.4
+
+\frac{9}{25} \rightarrow ?.?
+0.36
+0.4,0.28,0.32,0.44
+
+\frac{1}{40} \rightarrow ?.?
+0.025
+0.05,0.0,-0.025,0.075
+
+\frac{3}{40} \rightarrow ?.?
+0.075
+0.1,0.125,0.05,0.025
+
+\frac{7}{40} \rightarrow ?.?
+0.175
+0.2,0.125,0.225,0.15
+
+\frac{9}{40} \rightarrow ?.?
+0.225
+0.25,0.275,0.175,0.2
+
+0.5 \rightarrow \frac{?}{?}
+\frac{1}{2}
+\frac{1}{5},\frac{1}{3},\frac{1}{4},\frac{3}{2}
+
+0.25 \rightarrow \frac{?}{?}
+\frac{1}{4}
+\frac{1}{5},\frac{3}{4},\frac{1}{2},\frac{1}{3}
+
+0.75 \rightarrow \frac{?}{?}
+\frac{3}{4}
+\frac{1}{1},\frac{3}{5},\frac{5}{4},\frac{2}{4}
+
+0.2 \rightarrow \frac{?}{?}
+\frac{1}{5}
+\frac{0}{5},\frac{3}{5},\frac{2}{5},\frac{1}{6}
+
+0.4 \rightarrow \frac{?}{?}
+\frac{2}{5}
+\frac{1}{5},\frac{3}{5},\frac{1}{3},\frac{4}{5}
+
+0.6 \rightarrow \frac{?}{?}
+\frac{3}{5}
+\frac{5}{5},\frac{4}{5},\frac{1}{2},\frac{1}{1},\frac{2}{5}
+
+0.8 \rightarrow \frac{?}{?}
+\frac{4}{5}
+\frac{1}{1},\frac{3}{5},\frac{6}{5},\frac{2}{3}
+
+0.125 \rightarrow \frac{?}{?}
+\frac{1}{8}
+\frac{1}{9},\frac{1}{4},\frac{3}{8},\frac{1}{7}
+
+0.375 \rightarrow \frac{?}{?}
+\frac{3}{8}
+\frac{1}{2},\frac{1}{3},\frac{2}{8},\frac{5}{8}
+
+0.625 \rightarrow \frac{?}{?}
+\frac{5}{8}
+\frac{3}{4},\frac{5}{9},\frac{7}{8},\frac{4}{8}
+
+0.875 \rightarrow \frac{?}{?}
+\frac{7}{8}
+\frac{1}{1},\frac{7}{9},\frac{6}{8},\frac{9}{8}
+
+0.1 \rightarrow \frac{?}{?}
+\frac{1}{10}
+\frac{1}{5},\frac{0}{10},\frac{1}{11},\frac{3}{10}
+
+0.3 \rightarrow \frac{?}{?}
+\frac{3}{10}
+\frac{3}{11},\frac{1}{2},\frac{5}{10},\frac{2}{10},\frac{2}{5}
+
+0.7 \rightarrow \frac{?}{?}
+\frac{7}{10}
+\frac{6}{10},\frac{7}{11},\frac{9}{10},\frac{4}{5}
+
+0.9 \rightarrow \frac{?}{?}
+\frac{9}{10}
+\frac{11}{10},\frac{1}{1},\frac{9}{11},\frac{8}{10}
+
+0.05 \rightarrow \frac{?}{?}
+\frac{1}{20}
+\frac{1}{21},\frac{3}{20},\frac{1}{10},\frac{0}{15}
+
+0.15 \rightarrow \frac{?}{?}
+\frac{3}{20}
+\frac{1}{5},\frac{2}{20},\frac{5}{20},\frac{1}{4},\frac{1}{7}
+
+0.35 \rightarrow \frac{?}{?}
+\frac{7}{20}
+\frac{9}{20},\frac{2}{5},\frac{1}{3},\frac{6}{20}
+
+0.45 \rightarrow \frac{?}{?}
+\frac{9}{20}
+\frac{11}{20},\frac{3}{7},\frac{1}{2},\frac{8}{20}
+
+0.04 \rightarrow \frac{?}{?}
+\frac{1}{25}
+\frac{2}{25},\frac{3}{25},\frac{1}{26},\frac{0}{25}
+
+0.08 \rightarrow \frac{?}{?}
+\frac{2}{25}
+\frac{1}{13},\frac{3}{25},\frac{4}{25},\frac{1}{25}
+
+0.12 \rightarrow \frac{?}{?}
+\frac{3}{25}
+\frac{1}{5},\frac{2}{25},\frac{4}{25},\frac{3}{26},\frac{5}{25}
+
+0.16 \rightarrow \frac{?}{?}
+\frac{4}{25}
+\frac{1}{5},\frac{3}{25},\frac{6}{25},\frac{2}{13}
+
+0.24 \rightarrow \frac{?}{?}
+\frac{6}{25}
+\frac{5}{25},\frac{7}{25},\frac{3}{13},\frac{8}{25}
+
+0.28 \rightarrow \frac{?}{?}
+\frac{7}{25}
+\frac{7}{26},\frac{9}{25},\frac{6}{25},\frac{8}{25}
+
+0.32 \rightarrow \frac{?}{?}
+\frac{8}{25}
+\frac{9}{25},\frac{4}{13},\frac{2}{5},\frac{10}{25},\frac{7}{25}
+
+0.36 \rightarrow \frac{?}{?}
+\frac{9}{25}
+\frac{2}{5},\frac{9}{26},\frac{8}{25},\frac{11}{25}
+
+0.025 \rightarrow \frac{?}{?}
+\frac{1}{40}
+\frac{0}{40},\frac{1}{20},\frac{1}{41},\frac{3}{40}
+
+0.075 \rightarrow \frac{?}{?}
+\frac{3}{40}
+\frac{1}{8},\frac{3}{41},\frac{1}{10},\frac{2}{40},\frac{5}{40}
+
+0.175 \rightarrow \frac{?}{?}
+\frac{7}{40}
+\frac{9}{40},\frac{1}{5},\frac{7}{41},\frac{6}{40}
+
+0.225 \rightarrow \frac{?}{?}
+\frac{9}{40}
+\frac{8}{40},\frac{9}{41},\frac{1}{4},\frac{11}{40}
+
+0.33... \rightarrow \frac{?}{?}
+\frac{1}{3}
+\frac{1}{2},\frac{1}{4},\frac{2}{3},\frac{3}{10}
+
+0.66... \rightarrow \frac{?}{?}
+\frac{2}{3}
+\frac{1}{3},\frac{1}{2},\frac{3}{4},\frac{6}{10}
+
+0.11... \rightarrow \frac{?}{?}
+\frac{1}{9}
+\frac{1}{10},\frac{1}{3},\frac{2}{3},\frac{9}{10},\frac{1}{11}
