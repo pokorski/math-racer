@@ -11,10 +11,10 @@ USER_DISPLAY_MODES = [
     (1920, 1080)
 ]
 USER_SOUND_MODES = [
-    'Disabled',
-    'Only effects enabled',
-    'Only music enabled',
-    'Enabled'
+    'sound-disabled',
+    'sound-effects-enabled',
+    'sound-music-enabled',
+    'sound-enabled'
 ]
 TARGET_FPS = 60
 

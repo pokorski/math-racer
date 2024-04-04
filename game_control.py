@@ -6,6 +6,7 @@ import hud
 import menu
 from collisions import check_object_collision
 from sound import sound
+from i18n import trans
 
 
 class GameControl:
@@ -148,13 +149,13 @@ class GameControl:
                 sound.quiet()
                 sound.play('congratulations')
             self.finished_frames += 1
-            self.hud.display(self.screen, 'Congratulations!')
+            self.hud.display(self.screen, trans('congratulations'))
         elif self.env.player_car.crashed:
             if self.finished_frames == 0:
                 sound.quiet()
                 sound.play('fail')
             self.finished_frames += 1
-            self.hud.display(self.screen, 'You crashed.')
+            self.hud.display(self.screen, trans('crashed'))
             self.restart = True
         elif self.env.player_car.blocked and \
                 self.env.player_car.speed < 0.00001:
@@ -162,7 +163,7 @@ class GameControl:
                 sound.quiet()
                 sound.play('fail')
             self.finished_frames += 1
-            self.hud.display(self.screen, 'Time is up.')
+            self.hud.display(self.screen, trans('time-up'))
             self.restart = True
         else:
             if ((self.prev_time_left is not None) and
@@ -173,19 +174,19 @@ class GameControl:
                     self.env.player_car.blocked = False
 
                 if self.time_extended_frames <= 0.33 * config.TARGET_FPS:
-                    self.hud.display(self.screen, 'Time extended.')
+                    self.hud.display(self.screen, trans('time-extended'))
                 elif self.time_extended_frames <= 0.67 * config.TARGET_FPS:
                     pass
                 elif self.time_extended_frames <= 1 * config.TARGET_FPS:
-                    self.hud.display(self.screen, 'Time extended.')
+                    self.hud.display(self.screen, trans('time-extended'))
                 elif self.time_extended_frames <= 1.33 * config.TARGET_FPS:
                     pass
                 elif self.time_extended_frames <= 1.67 * config.TARGET_FPS:
-                    self.hud.display(self.screen, 'Time extended.')
+                    self.hud.display(self.screen, trans('time-extended'))
                 elif self.time_extended_frames <= 2 * config.TARGET_FPS:
                     pass
                 elif self.time_extended_frames <= 3 * config.TARGET_FPS:
-                    self.hud.display(self.screen, 'Time extended.')
+                    self.hud.display(self.screen, trans('time-extended'))
                 self.time_extended_frames += 1
             else:
                 self.time_extended_frames = 0

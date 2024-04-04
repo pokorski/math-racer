@@ -1,6 +1,7 @@
 import pygame
 
 import config
+from i18n import trans, trans_level, trans_equations
 
 
 class HUD:
@@ -44,11 +45,12 @@ class HUD:
         self.surface.fill('black')
 
         self.surface.blit(self.small_font.render(
-            level_name, True, 'white'), (50, 50))
+            trans_level(level_name), True, 'white'), (50, 50))
         self.surface.blit(self.small_font.render(
-            equations_name, True, 'white'), (50, 100))
+            trans_equations(equations_name), True, 'white'), (50, 100))
 
-        self.surface.blit(self.font.render('Speed:', True, 'white'), (50, 400))
+        self.surface.blit(self.font.render(
+            trans('hud-speed'), True, 'white'), (50, 400))
         speed_surface = self.font.render(
             '%.0f km/h' % (hud_speed), True, 'yellow')
         self.surface.blit(
@@ -56,7 +58,7 @@ class HUD:
             (self.surface.get_width() - speed_surface.get_width() - 50, 400))
 
         self.surface.blit(self.font.render(
-            'Progress:', True, 'white'), (50, 500))
+            trans('hud-progress'), True, 'white'), (50, 500))
         position_surface = self.font.render(
             '%.0f %%' % (hud_position), True, 'yellow')
         self.surface.blit(
@@ -67,7 +69,7 @@ class HUD:
              500))
 
         self.surface.blit(self.font.render(
-            'Time left:', True, 'white'), (50, 700))
+            trans('hud-time-left'), True, 'white'), (50, 700))
         speed_surface = self.font.render(
             '%d s' % (hud_time_left), True, 'yellow')
         self.surface.blit(
@@ -94,7 +96,7 @@ class HUD:
         self.surface.blit(position_progress_bar, (50, 550))
 
         self.surface.blit(self.font.render(
-            'Points:', True, 'white'), (50, self.surface.get_height() - 150))
+            trans('hud-score'), True, 'white'), (50, self.surface.get_height() - 150))
         points_surface = self.font.render('%d' % (hud_points), True, 'yellow')
         self.surface.blit(
             points_surface,
@@ -105,7 +107,7 @@ class HUD:
              150))
 
         self.surface.blit(
-            self.font.render('Time elapsed:', True, 'white'),
+            self.font.render(trans('hud-time-elapsed'), True, 'white'),
             (50, self.surface.get_height() - 250))
         time_surface = self.font.render(
             '%.2f s' % (max(0, time_passed)), True, 'yellow')
