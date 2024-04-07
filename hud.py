@@ -45,9 +45,13 @@ class HUD:
         self.surface.fill('black')
 
         self.surface.blit(self.small_font.render(
-            trans_level(level_name), True, 'white'), (50, 50))
+            trans_level(level_name), True, 'white'), (50, 100))
         self.surface.blit(self.small_font.render(
-            trans_equations(equations_name), True, 'white'), (50, 100))
+            trans_equations(equations_name), True, 'white'), (50, 150))
+        self.surface.blit(self.small_font.render(
+            'Karol Pokorski - Blog o edukacji', True, 'green'), (50, 10))
+        self.surface.blit(self.small_font.render(
+            '(blog.pokorski.edu.pl)', True, 'green'), (50, 40))
 
         self.surface.blit(self.font.render(
             trans('hud-speed'), True, 'white'), (50, 400))

@@ -12,6 +12,7 @@ from i18n import trans, trans_level, trans_equations
 class Menu:
     def __init__(self):
         self.font = pygame.font.SysFont(None, 72)
+        self.small_font = pygame.font.SysFont(None, 48)
         self.level_names = self.get_level_list()
         self.equations_names = self.get_equations_list()
         self.language_names = self.get_language_list()
@@ -134,6 +135,7 @@ class Menu:
     def draw(self, screen):
         screen.fill('black')
         screen.blit(self.font.render('Math Racer', True, 'white'), (50, 50))
+        screen.blit(self.small_font.render('Karol Pokorski - Blog o edukacji (blog.pokorski.edu.pl)', True, 'green'), (50, 100))
         screen.blit(self.font.render(
             trans('menu-level'), True, 'white'), (50, 200))
         screen.blit(self.font.render(trans_level(
