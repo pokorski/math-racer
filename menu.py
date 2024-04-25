@@ -21,22 +21,26 @@ class Menu:
         self.loading = False
 
     def get_level_list(self):
-        return sorted([f for f in os.listdir('levels')
-                       if os.path.isfile(os.path.join('levels', f))])
+        levels_dir = os.path.join(os.path.dirname(__file__), 'levels')
+        return sorted([f for f in os.listdir(levels_dir)
+                       if os.path.isfile(os.path.join(levels_dir, f))])
 
     def get_equations_list(self):
-        return sorted([f for f in os.listdir('equations')
-                       if os.path.isfile(os.path.join('equations', f))])
+        equations_dir = os.path.join(os.path.dirname(__file__), 'equations')
+        return sorted([f for f in os.listdir(equations_dir)
+                       if os.path.isfile(os.path.join(equations_dir, f))])
 
     def get_language_list(self):
+        translations_dir = os.path.join(os.path.dirname(__file__), 'i18n')
         return sorted([os.path.splitext(os.path.basename(f))[0]
-                       for f in os.listdir('i18n')
-                       if os.path.isfile(os.path.join('i18n', f)) \
+                       for f in os.listdir(translations_dir)
+                       if os.path.isfile(os.path.join(translations_dir, f)) \
                        and f != '__init__.py'])
 
 
     def save_menu_options(self):
-        with open('options.txt', 'w') as f:
+        dirname = os.path.dirname(__file__)
+        with open(os.path.join(dirname, 'options.txt'), 'w') as f:
             f.write(self.level_names[self.active_level_index] + '\n')
             f.write(self.equations_names[self.active_equations_index] + '\n')
             f.write('%d,%d' %
@@ -47,7 +51,8 @@ class Menu:
             f.write(self.language_names[self.active_language_index] + '\n')
 
     def load_menu_options(self):
-        with open('options.txt', 'r') as f:
+        dirname = os.path.dirname(__file__)
+        with open(os.path.join(dirname, 'options.txt'), 'r') as f:
             lines = [line.strip() for line in f.readlines()]
             self.active_level_index = self.level_names.index(lines[0])
             self.active_equations_index = self.equations_names.index(lines[1])

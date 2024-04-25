@@ -73,7 +73,8 @@ class Environment:
         self.points = 0.0
 
     def load_level(self, name):
-        full_name = os.path.join('levels', name)
+        dirname = os.path.dirname(__file__)
+        full_name = os.path.join(dirname, 'levels', name)
         lines = []
         time_extensions = {}
         pos = 1
@@ -87,7 +88,8 @@ class Environment:
         return (lines, time_extensions)
 
     def load_equations(self, name):
-        full_name = os.path.join('equations', name)
+        dirname = os.path.dirname(__file__)
+        full_name = os.path.join(dirname, 'equations', name)
         equations = []
         with open(full_name, 'r') as equations_file:
             equation_lines = equations_file.readlines()
