@@ -15,7 +15,8 @@ class Graphics:
         return self.sprites_cache[name]
 
     def load_png(self, name):
-        full_name = os.path.join('images', name)
+        dirname = os.path.dirname(__file__)
+        full_name = os.path.join(dirname, 'images', name)
 
         image = pygame.image.load(full_name)
         if image.get_alpha() is None:

@@ -20,11 +20,13 @@ class Sound:
             return self.load_mp3(name)
 
     def load_wav(self, name):
-        full_name = os.path.join('sounds', name + '.wav')
+        dirname = os.path.dirname(__file__)
+        full_name = os.path.join(dirname, 'sounds', name + '.wav')
         return pygame.mixer.Sound(full_name)
 
     def load_mp3(self, name):
-        full_name = os.path.join('sounds', name + '.mp3')
+        dirname = os.path.dirname(__file__)
+        full_name = os.path.join(dirname, 'sounds', name + '.mp3')
         return pygame.mixer.Sound(full_name)
 
     def quiet(self):
